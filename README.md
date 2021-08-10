@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aatishgnair
 - 👀 I’m interested in  programming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate web
+- 🌱 I’m currently learning All we have to be updated daily
+- 💞️ I’m looking to collaborate web developement Python Django
 - 📫 How to reach me email - aatishgnair@gmail.com
 
 <!---
